@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NudleGoddess
 - 👀 I’m interested in Video Games, Anime and recently Coding...
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning Front-End Development
 - 💞️ I’m looking to collaborate on whatever comes my way
 - 📫 How to reach me noodlegoddessir@gmail.com
 
